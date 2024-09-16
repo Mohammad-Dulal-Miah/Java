@@ -19,7 +19,7 @@ public class App2 {
 
         System.out.println("Orginal list: " + list);
         Collections.reverse(list);
-        System.out.println("Sorted list: " + list);
+        System.out.println("reverse list: " + list);
 
     }
 }
