@@ -9,7 +9,7 @@ public class App {
 
         // add multiple color name in array list
 
-        color_string.add("Red");
+        color_string.add("red");
         color_string.add("white");
         color_string.add("Black");
         color_string.add("green");
