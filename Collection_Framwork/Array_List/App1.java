@@ -33,7 +33,7 @@ public class App1 {
 
         Collections.copy(list, list1);
 
-        System.out.println("Copy list: " + list);
+        System.out.println("After Copy list: " + list);
         System.out.println("second list: " + list1);
     }
 }
