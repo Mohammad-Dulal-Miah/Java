@@ -9,6 +9,7 @@ class Audi extends Car {
 
     @Override
     public void color() {
+        super.color();
         System.out.println("I have brand color black...");
     }
 
